@@ -2,7 +2,7 @@
   "name": "slick-grid",
   "version": "1.0.0",
   "authors": [
-    "compass <slick-grid@gmail.com>",
+    "compass <slick-grid@gmail.com>"
   ],
   "description": "slick-grid mixins",
   "main": "libs/slick.grid.js",
